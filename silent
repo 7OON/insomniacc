@@ -1,4 +1,4 @@
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/JVSXNWRLD/Main/main/Streamable"))()
+local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/0UJ9Dbdz"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
